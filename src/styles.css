@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+div.input-group-addon.hover-cursor {
+    background-color: #eee;
+    border-right: 1px solid #ccc;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 0;
+    border-bottom: 0;
+  }
+  
+  div.input-group-addon.hover-cursor {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+ 
+  svg .svg-inline--fa.fa-plus-circle.fa-w-16.fa-2x{
+font-size:30px !Important;
+  }
+
+  .hover-cursor {
+    cursor: pointer;
+  }
